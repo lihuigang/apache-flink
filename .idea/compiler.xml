@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="apache-flink" />
+        <module name="apache-flink (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="apache-flink" target="1.8" />
+      <module name="apache-flink (1)" target="1.8" />
+      <module name="apache-flink (2) (com.meituan.waimai)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

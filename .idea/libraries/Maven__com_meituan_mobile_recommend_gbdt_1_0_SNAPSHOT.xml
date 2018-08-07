@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.meituan.mobile.recommend:gbdt:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/maven/com/meituan/mobile/recommend/gbdt/1.0-SNAPSHOT/gbdt-1.0-20151016.034256-12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/maven/com/meituan/mobile/recommend/gbdt/1.0-SNAPSHOT/gbdt-1.0-20151016.034256-12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/maven/com/meituan/mobile/recommend/gbdt/1.0-SNAPSHOT/gbdt-1.0-20151016.034256-12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
